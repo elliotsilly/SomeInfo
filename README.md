@@ -1,4 +1,4 @@
-# TooMuchInfo
+# TooMuchInfo ![all](https://img.shields.io/github/downloads/elliotsilly/SomeInfo/total)
 A mod for Gorilla Tag that gives you ~~too~~ some info about a player
 ![Photo_25_05-10_09_08_21_79](https://github.com/user-attachments/assets/be075d1e-8a1e-4526-8703-bfe4947d7b23)
 
